@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">Таймер</string>
+    <string name="timer_expired">Ваш сигнал тревоги звучит!</string>
+    <string name="timer_ended">Таймер завершён</string>
+    <string name="edit_image">Редактировать изображение</string>
+    <string name="remove_image">Удалить изображение</string>
+    <string name="channel_name">Сигналы и таймеры</string>
+    <string name="channel_description">Уведомления о сигналах и таймерах</string>
+    <string name="cooking_stage_photo">Фото на этапе приготовления</string>
+    <string name="toggle_unordered_list">Переключить неупорядоченный список</string>
+    <string name="toggle_ordered_list">Переключить упорядоченный список</string>
+    <string name="add_image">Добавить изображение</string>
+    <string name="add_timer">Добавить таймер</string>
+    <string name="set_duration">Установить длительность таймера</string>
+    <string name="hours_short">ч</string>
+    <string name="minutes_short">мин</string>
+    <string name="seconds_short">сек</string>
+    <string name="dismiss">Закрыть</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="pause">Пауза таймера</string>
+    <string name="start">Запустить таймер</string>
+    <string name="reset">Сбросить таймер</string>
+    <string name="timer_description">%s таймер</string>
+    <string name="edit_timer">Редактировать длительность таймера</string>
+    <string name="remove_timer">Удалить таймер</string>
+</resources>

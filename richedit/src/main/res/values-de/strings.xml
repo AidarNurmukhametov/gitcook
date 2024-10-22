@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">Timer</string>
+    <string name="timer_expired">Dein Alarm klingelt!</string>
+    <string name="timer_ended">Timer abgelaufen</string>
+    <string name="edit_image">Bild bearbeiten</string>
+    <string name="remove_image">Bild entfernen</string>
+    <string name="channel_name">Alarme &amp; Timer</string>
+    <string name="channel_description">Benachrichtigungen für Alarme und Timer</string>
+    <string name="cooking_stage_photo">Foto vom Kochvorgang</string>
+    <string name="toggle_unordered_list">Ungeordnete Liste umschalten</string>
+    <string name="toggle_ordered_list">Geordnete Liste umschalten</string>
+    <string name="add_image">Bild hinzufügen</string>
+    <string name="add_timer">Timer hinzufügen</string>
+    <string name="set_duration">Dauer des Timers einstellen</string>
+    <string name="hours_short">Std</string>
+    <string name="minutes_short">Min</string>
+    <string name="seconds_short">Sek</string>
+    <string name="dismiss">Verwerfen</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="pause">Timer pausieren</string>
+    <string name="start">Timer starten</string>
+    <string name="reset">Timer zurücksetzen</string>
+    <string name="timer_description">%s Timer</string>
+    <string name="edit_timer">Timer-Dauer bearbeiten</string>
+    <string name="remove_timer">Timer entfernen</string>
+</resources>

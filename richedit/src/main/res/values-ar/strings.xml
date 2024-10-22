@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">مؤقت</string>
+    <string name="timer_expired">إنذارك يرن!</string>
+    <string name="timer_ended">انتهى المؤقت</string>
+    <string name="edit_image">تعديل الصورة</string>
+    <string name="remove_image">إزالة الصورة</string>
+    <string name="channel_name">الإنذارات والموقتات</string>
+    <string name="channel_description">إشعارات للإنذارات والموقتات</string>
+    <string name="cooking_stage_photo">صورة مرحلة الطهي</string>
+    <string name="toggle_unordered_list">تبديل القائمة غير المرتبة</string>
+    <string name="toggle_ordered_list">تبديل القائمة المرتبة</string>
+    <string name="add_image">إضافة صورة</string>
+    <string name="add_timer">إضافة مؤقت</string>
+    <string name="set_duration">تعيين مدة المؤقت</string>
+    <string name="hours_short">س</string>
+    <string name="minutes_short">د</string>
+    <string name="seconds_short">ث</string>
+    <string name="dismiss">إغلاق</string>
+    <string name="confirm">تأكيد</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="start">بدء المؤقت</string>
+    <string name="reset">إعادة تعيين المؤقت</string>
+    <string name="timer_description">%s مؤقت</string>
+    <string name="edit_timer">تعديل مدة المؤقت</string>
+    <string name="remove_timer">إزالة المؤقت</string>
+</resources>

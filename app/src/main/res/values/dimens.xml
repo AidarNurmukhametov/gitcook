@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="row_spacing">8dp</dimen>
+    <dimen name="page_padding">16dp</dimen>
+    <dimen name="medium_spacing">16dp</dimen>
+    <dimen name="search_result_icon_size">48dp</dimen>
+    <dimen name="no_recipes_icon_size">100dp</dimen>
+    <dimen name="column_spacing">8dp</dimen>
+    <dimen name="grid_cell_size">150dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="github_icon">24dp</dimen>
+</resources>

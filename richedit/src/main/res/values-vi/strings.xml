@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">Bộ đếm giờ</string>
+    <string name="timer_expired">Chuông báo của bạn đang reo!</string>
+    <string name="timer_ended">Thời gian đã hết</string>
+    <string name="edit_image">Chỉnh sửa hình ảnh</string>
+    <string name="remove_image">Gỡ bỏ hình ảnh</string>
+    <string name="channel_name">Cảnh báo &amp; Bộ đếm giờ</string>
+    <string name="channel_description">Thông báo cho các báo thức và bộ đếm giờ</string>
+    <string name="cooking_stage_photo">Ảnh giai đoạn nấu ăn</string>
+    <string name="toggle_unordered_list">Chuyển đổi danh sách không thứ tự</string>
+    <string name="toggle_ordered_list">Chuyển đổi danh sách có thứ tự</string>
+    <string name="add_image">Thêm hình ảnh</string>
+    <string name="add_timer">Thêm bộ đếm giờ</string>
+    <string name="set_duration">Đặt thời gian cho bộ đếm giờ</string>
+    <string name="hours_short">h</string>
+    <string name="minutes_short">ph</string>
+    <string name="seconds_short">giây</string>
+    <string name="dismiss">Bỏ qua</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="pause">Tạm dừng bộ đếm giờ</string>
+    <string name="start">Bắt đầu bộ đếm giờ</string>
+    <string name="reset">Đặt lại bộ đếm giờ</string>
+    <string name="timer_description">%s bộ đếm giờ</string>
+    <string name="edit_timer">Chỉnh sửa thời gian bộ đếm giờ</string>
+    <string name="remove_timer">Gỡ bỏ bộ đếm giờ</string>
+</resources>

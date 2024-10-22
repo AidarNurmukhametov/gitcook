@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">タイマー</string>
+    <string name="timer_expired">アラームが鳴っています！</string>
+    <string name="timer_ended">タイマーが終了しました</string>
+    <string name="edit_image">画像を編集</string>
+    <string name="remove_image">画像を削除</string>
+    <string name="channel_name">アラームとタイマー</string>
+    <string name="channel_description">アラームとタイマーの通知</string>
+    <string name="cooking_stage_photo">料理段階の写真</string>
+    <string name="toggle_unordered_list">無秩序リストを切り替える</string>
+    <string name="toggle_ordered_list">順序付きリストを切り替える</string>
+    <string name="add_image">画像を追加</string>
+    <string name="add_timer">タイマーを追加</string>
+    <string name="set_duration">タイマーの持続時間を設定</string>
+    <string name="hours_short">h</string>
+    <string name="minutes_short">分</string>
+    <string name="seconds_short">秒</string>
+    <string name="dismiss">閉じる</string>
+    <string name="confirm">確認</string>
+    <string name="pause">タイマーを一時停止</string>
+    <string name="start">タイマーを開始</string>
+    <string name="reset">タイマーをリセット</string>
+    <string name="timer_description">%s タイマー</string>
+    <string name="edit_timer">タイマーの持続時間を編集</string>
+    <string name="remove_timer">タイマーを削除</string>
+</resources>

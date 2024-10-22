@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">Zamanlayıcı</string>
+    <string name="timer_expired">Alarmınız çalıyor!</string>
+    <string name="timer_ended">Zamanlayıcı sona erdi</string>
+    <string name="edit_image">Görüntüyü düzenle</string>
+    <string name="remove_image">Görüntüyü kaldır</string>
+    <string name="channel_name">Alarmlar ve Zamanlayıcılar</string>
+    <string name="channel_description">Alarmlar ve zamanlayıcılar için bildirimler</string>
+    <string name="cooking_stage_photo">Pişirme aşaması fotoğrafı</string>
+    <string name="toggle_unordered_list">Sırasız listeyi değiştir</string>
+    <string name="toggle_ordered_list">Sıralı listeyi değiştir</string>
+    <string name="add_image">Görüntü ekle</string>
+    <string name="add_timer">Zamanlayıcı ekle</string>
+    <string name="set_duration">Zamanlayıcı süresini ayarla</string>
+    <string name="hours_short">s</string>
+    <string name="minutes_short">dk</string>
+    <string name="seconds_short">sn</string>
+    <string name="dismiss">Kapat</string>
+    <string name="confirm">Onayla</string>
+    <string name="pause">Zamanlayıcıyı duraklat</string>
+    <string name="start">Zamanlayıcıyı başlat</string>
+    <string name="reset">Zamanlayıcıyı sıfırla</string>
+    <string name="timer_description">%s zamanlayıcı</string>
+    <string name="edit_timer">Zamanlayıcı süresini düzenle</string>
+    <string name="remove_timer">Zamanlayıcıyı kaldır</string>
+</resources>

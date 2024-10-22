@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">Minuteur</string>
+    <string name="timer_expired">Votre alarme sonne!</string>
+    <string name="timer_ended">Le minuteur est terminé</string>
+    <string name="edit_image">Modifier l\'image</string>
+    <string name="remove_image">Supprimer l\'image</string>
+    <string name="channel_name">Alarmes &amp; Minuteurs</string>
+    <string name="channel_description">Notifications pour alarmes et minuteurs</string>
+    <string name="cooking_stage_photo">Photo de l\'étape de cuisson</string>
+    <string name="toggle_unordered_list">Basculer la liste non ordonnée</string>
+    <string name="toggle_ordered_list">Basculer la liste ordonnée</string>
+    <string name="add_image">Ajouter une image</string>
+    <string name="add_timer">Ajouter un minuteur</string>
+    <string name="set_duration">Définir la durée du minuteur</string>
+    <string name="hours_short">h</string>
+    <string name="minutes_short">min</string>
+    <string name="seconds_short">sec</string>
+    <string name="dismiss">Ignorer</string>
+    <string name="confirm">Confirmer</string>
+    <string name="pause">Mettre en pause le minuteur</string>
+    <string name="start">Démarrer le minuteur</string>
+    <string name="reset">Réinitialiser le minuteur</string>
+    <string name="timer_description">%s minuteur</string>
+    <string name="edit_timer">Modifier la durée du minuteur</string>
+    <string name="remove_timer">Supprimer le minuteur</string>
+</resources>

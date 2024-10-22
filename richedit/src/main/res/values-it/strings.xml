@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">Timer</string>
+    <string name="timer_expired">La tua sveglia sta suonando!</string>
+    <string name="timer_ended">Timer scaduto</string>
+    <string name="edit_image">Modifica immagine</string>
+    <string name="remove_image">Rimuovi immagine</string>
+    <string name="channel_name">Allarmi &amp; Timer</string>
+    <string name="channel_description">Notifiche per allarmi e timer</string>
+    <string name="cooking_stage_photo">Foto della fase di cottura</string>
+    <string name="toggle_unordered_list">Attiva/disattiva lista non ordinata</string>
+    <string name="toggle_ordered_list">Attiva/disattiva lista ordinata</string>
+    <string name="add_image">Aggiungi immagine</string>
+    <string name="add_timer">Aggiungi timer</string>
+    <string name="set_duration">Imposta la durata del timer</string>
+    <string name="hours_short">h</string>
+    <string name="minutes_short">min</string>
+    <string name="seconds_short">sec</string>
+    <string name="dismiss">Scarta</string>
+    <string name="confirm">Conferma</string>
+    <string name="pause">Pausa timer</string>
+    <string name="start">Avvia timer</string>
+    <string name="reset">Ripristina timer</string>
+    <string name="timer_description">%s timer</string>
+    <string name="edit_timer">Modifica durata del timer</string>
+    <string name="remove_timer">Rimuovi timer</string>
+</resources>

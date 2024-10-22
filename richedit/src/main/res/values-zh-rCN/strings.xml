@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer">计时器</string>
+    <string name="timer_expired">您的闹钟响了！</string>
+    <string name="timer_ended">计时器结束</string>
+    <string name="edit_image">编辑图片</string>
+    <string name="remove_image">移除图片</string>
+    <string name="channel_name">闹钟与计时器</string>
+    <string name="channel_description">闹钟和计时器的通知</string>
+    <string name="cooking_stage_photo">烹饪阶段照片</string>
+    <string name="toggle_unordered_list">切换无序列表</string>
+    <string name="toggle_ordered_list">切换有序列表</string>
+    <string name="add_image">添加图片</string>
+    <string name="add_timer">添加计时器</string>
+    <string name="set_duration">设置计时器持续时间</string>
+    <string name="hours_short">小时</string>
+    <string name="minutes_short">分钟</string>
+    <string name="seconds_short">秒</string>
+    <string name="dismiss">关闭</string>
+    <string name="confirm">确认</string>
+    <string name="pause">暂停计时器</string>
+    <string name="start">启动计时器</string>
+    <string name="reset">重置计时器</string>
+    <string name="timer_description">%s 计时器</string>
+    <string name="edit_timer">编辑计时器持续时间</string>
+    <string name="remove_timer">移除计时器</string>
+</resources>
